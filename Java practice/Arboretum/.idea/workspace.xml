@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="479c220e-1727-4ba2-becb-316e97c5d95b" name="变更" comment="Updated F-features.md">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/comp1110/ass2/gui/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/comp1110/ass2/gui/Game.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Cindy &lt;u7424738@anu.edu.au&gt;" />
+        <option value="Weiqiang Pu &lt;u7424738@anu.edu.au&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectId" id="26UwvuoKk7NrqxiaUkQArnbev9n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/OneDrive/OneDrive - Australian National University/Semester1/6710 Structured Programming/comp1110-ass2",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "工件",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pathVariables"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OneDrive\OneDrive - Australian National University\Semester1\6710 Structured Programming\comp1110-ass2\admin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OneDrive\OneDrive - Australian National University\Semester1\6710 Structured Programming\comp1110-ass2\src\comp1110\ass2\gui\assets\Card" />
+      <recent name="D:\OneDrive\OneDrive - Australian National University\Semester1\6710 Structured Programming\comp1110-ass2\src\comp1110\ass2\gui" />
+      <recent name="D:\OneDrive\OneDrive - Australian National University\Semester1\6710 Structured Programming\comp1110-ass2\src\comp1110\ass2\gui\assets" />
+      <recent name="D:\OneDrive\OneDrive - Australian National University\Semester1\6710 Structured Programming\comp1110-ass2\assets" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="comp1110.ass2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Game">
+    <configuration name="game.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/game.jar" />
+      <option name="VM_PARAMETERS" value="--module-path ${PATH_TO_FX} --add-modules javafx.controls,javafx.fxml" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JAR 应用程序.game.jar" />
+      <item itemvalue="JUnit.Run all tests" />
+      <item itemvalue="JUnit.Task 3 IsHiddenStateWellFormed" />
+      <item itemvalue="JUnit.Task 4 IsSharedStateWellFormed" />
+      <item itemvalue="JUnit.Task 5 DrawFromDeckTest" />
+      <item itemvalue="JUnit.Task 7 IsPlacementValidTest" />
+      <item itemvalue="JUnit.Task 8 IsStateValidTest" />
+      <item itemvalue="JUnit.Task 9 CanScoreTest" />
+      <item itemvalue="JUnit.Task 10 GetAllValidPlacementsTest" />
+      <item itemvalue="JUnit.Task 12 GetAllViablePathsTest" />
+      <item itemvalue="JUnit.Task 13 GetHighestViablePathScoreTest" />
+      <item itemvalue="JUnit.Task 14 ChooseDrawLocationTest" />
+      <item itemvalue="JUnit.Task 15 GenerateMoveTest" />
+      <item itemvalue="应用程序.Game" />
+      <item itemvalue="应用程序.Viewer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR 应用程序.game.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="479c220e-1727-4ba2-becb-316e97c5d95b" name="变更" comment="" />
+      <created>1647491712105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647491712105</updated>
+      <workItem from="1647491715204" duration="1100000" />
+      <workItem from="1647869882701" duration="581000" />
+      <workItem from="1647907416009" duration="1736000" />
+      <workItem from="1647912282554" duration="5402000" />
+      <workItem from="1647930918055" duration="6648000" />
+      <workItem from="1648521065662" duration="13570000" />
+      <workItem from="1648563935044" duration="639000" />
+      <workItem from="1648605539772" duration="2946000" />
+      <workItem from="1648965542659" duration="12272000" />
+      <workItem from="1649047477515" duration="8684000" />
+      <workItem from="1649119544306" duration="39217000" />
+      <workItem from="1649219226832" duration="8337000" />
+      <workItem from="1649240074370" duration="1064000" />
+      <workItem from="1649550740875" duration="1924000" />
+      <workItem from="1649725347710" duration="3359000" />
+      <workItem from="1649742456146" duration="495000" />
+      <workItem from="1649743002788" duration="4673000" />
+      <workItem from="1650110868980" duration="12025000" />
+      <workItem from="1650157554663" duration="8398000" />
+      <workItem from="1650348061540" duration="80000" />
+      <workItem from="1650373413698" duration="655000" />
+      <workItem from="1650516352806" duration="17298000" />
+      <workItem from="1650609448808" duration="19000" />
+      <workItem from="1650618067380" duration="168000" />
+      <workItem from="1650630395497" duration="60000" />
+      <workItem from="1650942040853" duration="173000" />
+      <workItem from="1650953425381" duration="2331000" />
+      <workItem from="1651127079044" duration="375000" />
+      <workItem from="1651127526727" duration="13409000" />
+      <workItem from="1651241006567" duration="3993000" />
+      <workItem from="1651282260136" duration="24840000" />
+      <workItem from="1651368038850" duration="30267000" />
+      <workItem from="1651463143501" duration="25732000" />
+      <workItem from="1651543222271" duration="32149000" />
+      <workItem from="1652095520606" duration="71000" />
+      <workItem from="1652230063942" duration="1861000" />
+      <workItem from="1652271343602" duration="6528000" />
+      <workItem from="1652317784910" duration="11122000" />
+      <workItem from="1652333085466" duration="1095000" />
+      <workItem from="1652680711640" duration="659000" />
+      <workItem from="1652688431554" duration="15000" />
+      <workItem from="1652688473518" duration="106000" />
+      <workItem from="1652688622793" duration="159000" />
+      <workItem from="1652689140756" duration="435000" />
+      <workItem from="1652864277965" duration="600000" />
+      <workItem from="1652924467841" duration="365000" />
+      <workItem from="1652937686927" duration="5770000" />
+      <workItem from="1652943652052" duration="636000" />
+      <workItem from="1652944798585" duration="610000" />
+      <workItem from="1653297801007" duration="56000" />
+      <workItem from="1653363431805" duration="631000" />
+      <workItem from="1653793074209" duration="65000" />
+    </task>
+    <task id="LOCAL-00001" summary="Lab 5 - Bob part">
+      <created>1647910868505</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647910868505</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Lab 5 - Cindy part">
+      <created>1647911091989</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647911091989</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lab 5 - Cindy part">
+      <created>1647911127096</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1647911127096</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Lab 5 - Cindy part">
+      <created>1647911204338</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1647911204338</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Lab 5 - Cindy part 8">
+      <created>1647927283573</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1647927283573</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add Tree enum class">
+      <created>1647931588526</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1647931588526</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add Directions enum class">
+      <created>1647931789944</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1647931789944</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add Classed">
+      <created>1647938367876</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1647938367876</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add Classes">
+      <created>1647938388034</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1647938388034</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add Classes">
+      <created>1647938457869</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1647938457869</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add Classes">
+      <created>1647938474136</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1647938474136</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Finished Task3:IsHiddenStateWellFormed">
+      <created>1648533364789</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1648533364789</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Finished Task3:IsHiddenStateWellFormed">
+      <created>1648533957905</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1648533957905</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Finished Task3:IsHiddenStateWellFormed">
+      <created>1648533980921</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1648533980921</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Finished Task4:IsSharedStateWellFormed">
+      <created>1648607101626</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1648607101627</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Updated C-originality.yml">
+      <created>1648607346281</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1648607346281</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Add comments to Arboretum">
+      <created>1648965673674</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1648965673674</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Optimized Task3">
+      <created>1649160507028</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1649160507028</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Optimized getValueFromHidden() method">
+      <created>1649223381627</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1649223381627</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Updated Card.java">
+      <created>1649223448754</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1649223448754</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Finished Task6:Placement Viewer">
+      <created>1649231034513</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1649231034513</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Finished Task6:Placement Viewer">
+      <created>1649240875669</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1649240875669</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Uploaded Card Images">
+      <created>1649728186318</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1649728186318</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Updated Card.java">
+      <created>1649728279437</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1649728279437</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Updated Originality">
+      <created>1649744234338</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1649744234338</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Uploaded C-best-u7424738.yml">
+      <created>1649747370732</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1649747370732</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Updated Task6!">
+      <created>1650165642694</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1650165642694</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Updated D-originality-u7424738.yml!">
+      <created>1650517034057</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1650517034057</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Optimized getValueFromShared() method!">
+      <created>1650533559076</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1650533559076</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Added D2DGetSharedStateTest.java!">
+      <created>1650533587949</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1650533587949</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Updated D-newcode-u7424738.md">
+      <created>1650533615055</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1650533615055</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Updated E-review-u7424738.md">
+      <created>1651132618523</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1651132618523</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Updated GUI position and draw card methods">
+      <created>1651418722462</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1651418722462</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Updated deck GUI">
+      <created>1651499221396</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1651499221396</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Updated deck GUI">
+      <created>1651505119168</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1651505119168</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Updated initialize method">
+      <created>1651559529956</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1651559529956</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Updated D2F contribution and originality">
+      <created>1651561284110</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1651561284110</updated>
+    </task>
+    <task id="LOCAL-00038" summary="modified drawFromDiscard() method">
+      <created>1651569367299</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1651569367299</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Updated control logic and layout">
+      <created>1651588794639</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1651588794639</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Finished Task 15!">
+      <created>1652276966233</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1652276966233</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Finished Task 15!">
+      <created>1652277075973</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1652277075973</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Finished Task 15!">
+      <created>1652277263510</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1652277263510</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Updated some admin files">
+      <created>1652277804226</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1652277804226</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Updated task 16: computer opponent">
+      <created>1652330367441</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1652330367441</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Updated task 16: computer opponent">
+      <created>1652331275872</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1652331275872</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Updated task 16: computer opponent">
+      <created>1652331663140</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1652331663140</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Updated F-best-u7424738.yml">
+      <created>1652334071505</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1652334071505</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Modified F-best-u7443740.yml for passing CI">
+      <created>1652681146808</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1652681146808</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Updated F-features.md">
+      <created>1652942155792</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1652942155792</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Optimized Task3" />
+    <MESSAGE value="Optimized getValueFromHidden() method" />
+    <MESSAGE value="Finished Task6:Placement Viewer" />
+    <MESSAGE value="Uploaded Card Images" />
+    <MESSAGE value="Updated Card.java" />
+    <MESSAGE value="Updated Originality" />
+    <MESSAGE value="Uploaded C-best-u7424738.yml" />
+    <MESSAGE value="Updated Task6!" />
+    <MESSAGE value="Updated D-originality-u7424738.yml!" />
+    <MESSAGE value="Optimized getValueFromShared() method!" />
+    <MESSAGE value="Added D2DGetSharedStateTest.java!" />
+    <MESSAGE value="Updated D-newcode-u7424738.md" />
+    <MESSAGE value="Updated E-review-u7424738.md" />
+    <MESSAGE value="Updated GUI position and draw card methods" />
+    <MESSAGE value="Updated deck GUI" />
+    <MESSAGE value="Updated initialize method" />
+    <MESSAGE value="Updated D2F contribution and originality" />
+    <MESSAGE value="modified drawFromDiscard() method" />
+    <MESSAGE value="Updated control logic and layout" />
+    <MESSAGE value="Finished Task 15!" />
+    <MESSAGE value="Updated some admin files" />
+    <MESSAGE value="Updated task 16: computer opponent" />
+    <MESSAGE value="Updated F-best-u7424738.yml" />
+    <MESSAGE value="Modified F-best-u7443740.yml for passing CI" />
+    <MESSAGE value="Updated F-features.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated F-features.md" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="result" />
+        <watch expression="result[3]" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

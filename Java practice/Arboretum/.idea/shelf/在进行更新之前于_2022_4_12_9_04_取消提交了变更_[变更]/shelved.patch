@@ -1,0 +1,15 @@
+Index: src/comp1110/ass2/ArboretumGrid.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package comp1110.ass2;\r\n\r\nimport comp1110.ass2.gui.Position;\r\n\r\n\r\npublic class ArboretumGrid {\r\n    private Position position;\r\n    private Card type;\r\n\r\n    public ArboretumGrid(Position position, Card type) {\r\n        this.position = position;\r\n        this.type = type;\r\n    }\r\n\r\n    public Position getPosition() {\r\n        return position;\r\n    }\r\n\r\n    public void setPosition(Position position) {\r\n        this.position = position;\r\n    }\r\n\r\n    public Card getType() {\r\n        return type;\r\n    }\r\n\r\n    public void setType(Card type) {\r\n        this.type = type;\r\n    }\r\n\r\n\r\n}\r\n
+===================================================================
+diff --git a/src/comp1110/ass2/ArboretumGrid.java b/src/comp1110/ass2/ArboretumGrid.java
+--- a/src/comp1110/ass2/ArboretumGrid.java	
++++ b/src/comp1110/ass2/ArboretumGrid.java	
+@@ -1,5 +1,6 @@
+ package comp1110.ass2;
+ 
++import comp1110.ass2.gui.Card;
+ import comp1110.ass2.gui.Position;
+ 
+ 
