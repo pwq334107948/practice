@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <item
+        android:id="@+id/navigation_search"
+        android:icon="@drawable/ic_action_search"
+        android:title="@string/searchMenu" />
+    <item
+        android:id="@+id/navigation_cart"
+        android:icon="@drawable/ic_cart"
+        android:title="@string/cartMenu" />
+    <item
+        android:id="@+id/navigation_message"
+        android:icon="@android:drawable/sym_action_chat"
+        android:title="@string/messageMenu" />
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_account"
+        android:title="@string/profileMenu" />
+
+</menu>
