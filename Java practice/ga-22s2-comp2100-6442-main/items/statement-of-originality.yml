@@ -1,0 +1,19 @@
+# for information & examples on how to fill this out correctly, see
+# https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
+# this document has been modified for the purpose of the COMP2100/6442 group assignment.
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely our
+  own work, with the following exceptions:
+
+# for each member, write your name and uid here
+# remove any empty "name+uid" entries
+members:
+  - name: Chukun Ouyang
+    uid: u7443132
+  - name: Songshen Xie
+    uid: u7338864
+  - name: Weiqiang Pu
+    uid: u7424738
+  - name: Zeyu Zhang
+    uid: u7394442

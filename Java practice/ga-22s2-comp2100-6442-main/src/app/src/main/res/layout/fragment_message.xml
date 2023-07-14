@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frameLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".UI.fragments.MessageFragment">
+
+    <Button
+        android:id="@+id/chat"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/button_chat"
+        android:text="@string/chatButton"
+        android:textColor="#FF9800"
+        android:textSize="20sp"
+        android:textStyle="bold|italic"
+        app:backgroundTint="@null" />
+
+    <Button
+        android:id="@+id/blacklist"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/button_blacklist"
+        android:text="@string/blacklistButton"
+        android:textColor="#FF9800"
+        android:textSize="20sp"
+        android:textStyle="bold|italic"
+        app:backgroundTint="@null" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:ems="20"
+        android:text="Hint:  Please enter the email address of the person you want to chat with ：）"
+         />
+</androidx.appcompat.widget.LinearLayoutCompat>

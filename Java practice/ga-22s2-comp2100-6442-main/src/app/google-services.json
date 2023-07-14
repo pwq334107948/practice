@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "969697050102",
+    "firebase_url": "https://ga-22s2-comp6442-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ga-22s2-comp6442",
+    "storage_bucket": "ga-22s2-comp6442.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969697050102:android:9424343ff5d58fbe10dbd7",
+        "android_client_info": {
+          "package_name": "au.anu.mymarketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969697050102-fm5hp5bovt818qjc10qb88lcdhscibo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEV7OXIr29udaeUrlCfxgorS8obEvndPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969697050102-fm5hp5bovt818qjc10qb88lcdhscibo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
